@@ -119,4 +119,4 @@ int main(){
             cout<<u[i][j]<<' ';
         cout<<endl;
     }
-}
+} 
