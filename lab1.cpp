@@ -101,4 +101,4 @@ int main(){
             cout<<inversedMatrix[j][i]<<' ';
         cout<<endl;
     }
-}
+} 
